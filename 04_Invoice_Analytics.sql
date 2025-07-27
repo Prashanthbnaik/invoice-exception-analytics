@@ -1,4 +1,4 @@
--- Project: Consolidated Invoicing, Engine, and Exception Analytics
+-- Project: Consolidated Invoicing, Engie, and Exception Analytics
 
 -- File: create_invoice_analytics_table.sql
 -- Description: SQL DDL (Data Definition Language) to create the 'invoice_analytics' table.
