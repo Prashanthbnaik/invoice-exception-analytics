@@ -22,15 +22,15 @@ This project demonstrates a full-cycle data analytics workflow designed to optim
 
 ## Repository Structure
 
-├── 00_mock_dataset.csv
-├── 01_data_loading_and_initial_inspection.ipynb
-├── 02_a_cleaned_data.csv
-├── 02_data_cleaning.ipynb
-├── 03_kpi_analysis_eda_and_visualization.ipynb
-├── 04_Invoice_Analytics.sql
-├── 05_Consolidated Invoicing, Engine, Exception Analytics.pbix
-├── 06_power_bi_dashboard.png
-├── 07-Findings-Report-Presentation.pdf
+├── 00_mock_dataset.csv                     # Safely mocked raw data (10,013 rows)
+├── 01_data_loading_and_initial_inspection.ipynb  # First-level data inspection and schema check
+├── 02_a_cleaned_data.csv                   # Cleaned and transformed data for analysis
+├── 02_data_cleaning.ipynb                  # Detailed data cleaning and type handling
+├── 03_kpi_analysis_eda_and_visualization.ipynb  # KPI generation, EDA, and trend plots
+├── 04_Invoice_Analytics.sql                # SQL scripts for business rule validation
+├── 05_Consolidated Invoicing, Engie, and Exceptions Analytics.pbix          # Final Power BI report (optional upload)
+├── 06_power_bi_dashboard.png               # Snapshot of final dashboard for preview
+├── 07-Findings-Report-Presentation.pdf     # Slide deck covering key takeaways
 └── README.md
 
 
