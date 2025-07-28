@@ -1,5 +1,5 @@
 # Invoice Exception Analytics Project  
-**Consolidated Invoicing, Engine, and Exception Analytics for a Global Industrial Services MNC**
+**Consolidated Invoicing, Engie, and Exception Analytics for a Leading Global Industrial Services MNC**
 
 ---
 
@@ -16,7 +16,6 @@ This project demonstrates a full-cycle data analytics workflow designed to optim
 
 - Streamline invoice exception handling.
 - Enhance timeliness and SLA compliance across request types.
-- Evaluate the performance of the “engine” process for vendor creation.
 - Deliver data-driven insights through KPIs and dashboards.
 
 ---
