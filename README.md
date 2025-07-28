@@ -31,7 +31,8 @@ This project demonstrates a full-cycle data analytics workflow designed to optim
 ├── 05_Consolidated Invoicing, Engie, and Exceptions Analytics.pbix          # Final Power BI report (optional upload)
 ├── 06_power_bi_dashboard.png               # Snapshot of final dashboard for preview
 ├── 07-Findings-Report-Presentation.pdf     # Slide deck covering key takeaways
-└── README.md
+└── README.md                               # Project summary and documentation
+
 
 
 ---
